@@ -1,10 +1,11 @@
 ---
 layout: page
-title: About
+title: About Wisan
 permalink: /about/
 ---
 
-Some information about you!
+Wisan
+Ubon Ratchathani
 
 ### More Information
 
