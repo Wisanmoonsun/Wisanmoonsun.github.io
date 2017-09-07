@@ -3,10 +3,10 @@ layout: page
 title: my resume
 permalink: /resume/
 ---
-#Experience
+# Experience
 - เคยเข้าร่วมอบรมภาษา HTML/CSS
 - เคยทำกิจกรรมวันวิทยาศาสตร์
 
 
-#Education
+# Education
 Bs.c. Computer Science, Ubon Ratchathani Ratchat University
