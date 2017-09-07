@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About Wisan
+title:  Wisan
 permalink: /about/
 ---
 
-## Wisan  <br>
-### Ubon Ratchathani
+# Wisan Moonsun
+#### Ubon Ratchathani
 
 ### More Information
 
