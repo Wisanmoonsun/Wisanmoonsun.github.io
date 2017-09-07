@@ -4,8 +4,8 @@ title: About Wisan
 permalink: /about/
 ---
 
-h1 Wisan h1 <br>
-Ubon Ratchathani
+##Wisan  <br>
+###Ubon Ratchathani
 
 ### More Information
 
