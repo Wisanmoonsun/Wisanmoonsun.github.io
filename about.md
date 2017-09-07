@@ -13,4 +13,4 @@ permalink: /about/
 
 ### Contact me
 
-[email@domain.com](mailto:wisan.mcs57@ubru.ac.th)
+[wisan.mcs57@ubru.ac.th](mailto:email@domain.com)
